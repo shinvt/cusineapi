@@ -6,12 +6,10 @@ This API include the following functions:
  + Token could be refilled by admin account
  
 Start API 
-+
 .................
-$ docker-compose build
-$ docker-compose up
+$ docker-compose build <br>
+$ docker-compose up <br>
 .................
-+
 
 Future improvements:
 * Detect ingredients from image and make a recommendation
